@@ -1,0 +1,22 @@
+{% if page.language == "zh-Hant-TW" %}
+  {% assign language_url = "/" %}
+{% else %}
+  {% assign language_url = "/en/" %}
+{% endif %}
+
+<header class="d-flex flex-row mb-8">
+  <nav class="mt-0">
+    <a href="{{ site.github.url }}{{ language_url }}" class="text-decoration-none">
+      <span>{{ site.title }}</span>
+    </a>
+  </nav>
+
+  <nav class="d-inline-flex ms-auto">
+    {% for item in site.data.settings.menu %}
+      <a href="{{ site.github.url }}{{ language_url }}{{ item.url }}" class="text-decoration-none {%- if forloop.last %} me-0 {%- else %} me-3 {%- endif %}">
+        <span>{{ item.name }}</span>
+      </a>
+    {% endfor %}
+    {% include language-switch.html %}
+  </nav>
+</header>

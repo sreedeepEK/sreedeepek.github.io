@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="{{ page.language }}">
+
+{% include head.html %}
+
+<body>
+  <div class="col-lg-7 mx-auto p-3 pb-md-6 pt-md-6 pb-4 pt-4">
+    {% include header.html %}
+    {{ content }}
+    {% include footer.html %}
+  </div>
+
+  {% if page.usemathjax %}
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']]
+      },
+      svg: {
+        fontCache: 'global'
+      }
+    };
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js" type="text/javascript" id="MathJax-script"
+    async></script>
+  {% endif %}
+
+</body>
+
+</html>

@@ -1,0 +1,63 @@
+url: "https://whycoffee.blog"
+baseurl: ""
+title: "why coffee?"
+lang: "zh-Hant-TW"
+permalink: /:categories/:title
+future: true
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      toc: true
+  - 
+    scope:
+      path: '*.md'
+    values:
+      language: zh-Hant-TW
+  -
+    scope:
+      path: '_posts/*.md'
+    values:
+      language: zh-Hant-TW
+  -
+    scope:
+      path: '_drafts/*.md'
+    values:
+      language: zh-Hant-TW
+  -
+    scope:
+      path: 'tag/*.md'
+    values:
+      language: zh-Hant-TW
+      sitemap: false
+  - 
+    scope:
+      path: 'en/*.md'
+    values:
+      language: en
+      locale: en_US
+  - 
+    scope:
+      path: 'en/tag/*.md'
+    values:
+      language: en
+      locale: en_US
+  -
+    scope:
+      path: '_posts/en/*.md'
+    values:
+      permalink: 'en/:categories/:title'
+      language: en
+      locale: en_US
+
+exclude:
+  - assets/archived/*
+  - assets/scripts/*
+  - _post/en/wip_translate/*
