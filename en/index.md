@@ -4,10 +4,6 @@ title: "home"
 language_reference: home
 ---
 
-Hi, I'm Hao-Yung Weng, a passionate coffee aficionado. My coffee journey began when I led the [student coffee club at National Taiwan University](https://instagram.com/ntu.coffee), where I currently serve as a mentor for new members. Our club has a strong focus on research. We dive into blog posts (favorites include those by [Jonathan Gagné](https://coffeeadastra.com/), [Christopher Feran](https://christopherferan.com/), among others), host cupping sessions, document our brews, and measure extraction yields.
+Hi, I'm Sreedeep. I translate data into meaningful insights, and also into hilarious presentations that have been known to induce uncontrollable laughter (or at least slightly confused snorting).
 
-Years of coffee exploration have yielded numerous insights that, while not conclusive, are probably worth sharing. This blog, named "why coffee?" after my initials "WHY," serves as a platform to express my thoughts and experiences. The name also prompts reflection: What draws us to coffee? Is it the desire to explore the diverse flavors imparted by different terroirs? Or perhaps the joy of engaging in nuanced discussions, sharing insights with fellow enthusiasts?
-
-When hosting tasting events, I like to use the concept of "connections between people" to capture coffee's essence. Each coffee undertakes an extensive journey – from cultivation and harvesting to processing and roasting, which interlinks the individuals involved. I often convey, "Notice how coffee connects us – you and me, in this very moment."
-
-In that same spirit, I extend this camaraderie to you, dear reader.
+P.S. If you ever see me muttering to myself about logistic regression or the perfect visualization for cat video viewership data, feel free to say hi (just don't interrupt during peak analysis flow).
