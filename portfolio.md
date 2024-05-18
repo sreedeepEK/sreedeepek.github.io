@@ -10,18 +10,13 @@ Ever wondered what I've been up to? Take a peek behind the curtain and explore m
 -   [Foodvision](https://github.com/sreedeepEK/Foodvision.io)
 -   [MuseFinder](https://github.com/sreedeepEK/MuseFinder)
 -   [ChatwithPDF's](https://github.com/sreedeepEK/ChatwithPDF) 
--   [1zpresso ZP6](https://1zpresso.com/zp6-%E7%89%B9%E4%BB%95%E7%89%88/)
--   [Commandante C40](https://www.comandantegrinder.com/)
 
-#### 濾杯
+#### Research paper replication
 
--   *[Pulsar](https://nextlevelbrewer.com/pulsar-brewer/)
--   *[Orea V3](https://www.orea.uk/orea-brewer-v3)
--   [Tricolate](https://tricolate.com/)
--   [KONO MDK-21](https://coffee-syphon.co.jp/meimon_filter/)
--   [V60](https://www.hario.com/v60/v60series.html)（塑膠版）
+-   [RetinalNET](https://github.com/sreedeepEK/RetinalNET)
 
-#### 手沖壺
+
+
 
 
 <style>
