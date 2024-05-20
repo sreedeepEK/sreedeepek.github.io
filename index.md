@@ -4,7 +4,7 @@ title: "home"
 language_reference: home
 ---
 
-Well, well, well, look who stumbled upon my little corner of the internet! Hi, I'm Sreedeep. I turn boring data into stories so good, you'd think they were written by Shakespeare, if Shakespeare wrote about data. 
+Well, well, look who stumbled upon my little corner of the internet! Hi, I'm Sreedeep. I turn boring data into stories so good, you'd think they were written by Shakespeare, if Shakespeare wrote about data. 
 
 #### What I Do
 
