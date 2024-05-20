@@ -5,26 +5,41 @@ language_reference: gears
 ---
 
 #### Research paper replication
+ 
+-   [RetinalNET](https://github.com/sreedeepEK/RetinalNET):
 
--   [RetinalNET](https://github.com/sreedeepEK/RetinalNET): This project contains the implementation of a Retinal OCT analysis system using a pretrained               ResNet50 model. The system is based on utilizing transfer learning with ResNet50 for efficient analysis of Retinal Optical Coherence Tomography (OCT) images.
-    This project demonstrates a basic implementation of the OpticNet paper for educational purposes. It's recommended to train for more epochs (e.g., 50) for   potentially better results. In my testing, 5 epochs took approximately 4 hours. (Trained on NVIDIA GTX 1650 GPU).Training for longer will require more 
+  
+
+    This project contains the implementation of a Retinal OCT analysis system using a pretrained ResNet50 model. The system is based on utilizing transfer learning 
+    with ResNet50 for efficient analysis of Retinal Optical Coherence Tomography (OCT) images.
+    
+    This project demonstrates a basic implementation of the OpticNet paper for educational purposes. It's recommended to train for more epochs (e.g., 50) for           potentially better results. In my testing, 5 epochs took approximately 4 hours. (Trained on NVIDIA GTX 1650 GPU).Training for longer will require more 
     computational resources and time.
-
+        
     This is a replication of the core functionalities described in the Optic-Net paper, but may not include all the optimizations or complexities of the original 
-     research. Contributions are welcome!
+    research. Contributions are welcome!
 
 
 #### Projects
 
--   [ChatwithPDF's](https://github.com/sreedeepEK/ChatwithPDF): The ChatPDF project simplifies working with PDF documents using Langchain technology. It extracts         text, understands its meaning, and quickly finds relevant information. It uses Google's LLM model for advanced language understanding. With an easy-to-use          interface and advanced AI, users can navigate and understand PDFs better, making accessing and summarizing PDF content easier.
+-   [ChatwithPDF's](https://github.com/sreedeepEK/ChatwithPDF):
 
--   [Foodvision](https://github.com/sreedeepEK/Foodvision.io): 
+       The ChatPDF project simplifies working with PDF documents using Langchain technology. It extracts text, understands its meaning, and quickly finds relevant 
+       information. It uses Google's LLM model for advanced language understanding. With an easy-to-use interface and advanced AI, users can navigate and 
+       understand PDFs better, making accessing and summarizing PDF content easier.
+
+-   [Foodvision](https://github.com/sreedeepEK/Foodvision.io):
+
+            
     Foodvision.io is a computer vision project aimed at identifying and classifying various food items from images.Using state-of-the-art deep learning techniques,     this project offers a robust solution for recognizing food items, enabling applications in dietary monitoring, restaurant menu analysis, and more.
 
 -   [MuseFinder](https://github.com/sreedeepEK/MuseFinder):
+    
     MuseFinder is a music recommendation application powered by the Spotify API. It recommends similar songs based on user preferences, enabling personalized music     discovery.   
 
--   [CancerPredictML](https://github.com/sreedeepEK/CancerPredictML):A machine learning-driven tool developed to aid medical professionals in diagnosing breast cancer. Utilizes input measurements to predict whether a breast mass is benign or malignant. Features a radar chart visualization of input data and provides the predicted diagnosis along with probability. Created as a machine learning exercise using the Breast Cancer Wisconsin (Diagnostic) Data Set for educational purposes.
+-   [CancerPredictML](https://github.com/sreedeepEK/CancerPredictML):
+   
+    A machine learning-driven tool developed to aid medical professionals in diagnosing breast cancer. Utilizes input measurements to predict whether a breast mass     is benign or malignant. Features a radar chart visualization of input data and provides the predicted diagnosis along with probability. Created as a machine        learning exercise using the Breast Cancer Wisconsin (Diagnostic) Data Set for educational purposes.
 
 
 
