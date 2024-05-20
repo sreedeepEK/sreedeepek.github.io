@@ -3,7 +3,6 @@ layout: page
 title: "Portfolio"
 language_reference: gears
 ---
-A Closer Look at My Work
 
 #### Research paper replication
 
@@ -17,7 +16,7 @@ A Closer Look at My Work
 
 #### Projects
 
--   [ChatwithPDF's](https://github.com/sreedeepEK/ChatwithPDF): The ChatPDF project simplifies working with PDF documents using Langchain technology. It extracts         text, understands its meaning, and quickly finds relevant information. It uses Google's LLM model for advanced language understanding. With an easy-to-use          interface and advanced AI, users can navigate and understand PDFs better,making accessing and summarizing PDF content easier.
+-   [ChatwithPDF's](https://github.com/sreedeepEK/ChatwithPDF): The ChatPDF project simplifies working with PDF documents using Langchain technology. It extracts         text, understands its meaning, and quickly finds relevant information. It uses Google's LLM model for advanced language understanding. With an easy-to-use          interface and advanced AI, users can navigate and understand PDFs better, making accessing and summarizing PDF content easier.
 
 -   [Foodvision](https://github.com/sreedeepEK/Foodvision.io): 
     Foodvision.io is a computer vision project aimed at identifying and classifying various food items from images.Using state-of-the-art deep learning techniques,     this project offers a robust solution for recognizing food items, enabling applications in dietary monitoring, restaurant menu analysis, and more.
@@ -26,8 +25,6 @@ A Closer Look at My Work
     MuseFinder is a music recommendation application powered by the Spotify API. It recommends similar songs based on user preferences, enabling personalized music     discovery.   
 
 -   [CancerPredictML](https://github.com/sreedeepEK/CancerPredictML):A machine learning-driven tool developed to aid medical professionals in diagnosing breast cancer. Utilizes input measurements to predict whether a breast mass is benign or malignant. Features a radar chart visualization of input data and provides the predicted diagnosis along with probability. Created as a machine learning exercise using the Breast Cancer Wisconsin (Diagnostic) Data Set for educational purposes.
-
-
 
 
 
@@ -58,13 +55,9 @@ A Closer Look at My Work
     }
   }
 
-  h4 {
+  h4, h5 {
     margin-top: var(--spacing-spacing-6);
     margin-bottom: var(--spacing-spacing-3);
   }
-
-  h5 {
-    margin-top: var(--spacing-spacing-5);
-    margin-bottom: var(--spacing-spacing-2);
-  }
 </style>
+
