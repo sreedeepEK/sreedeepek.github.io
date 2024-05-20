@@ -1,6 +1,7 @@
 url: "https://sreedeepek.github.io"
 baseurl: ""
 title: "Sreedeep."
+description: "Data scientist"
 lang: "en"
 permalink: /:categories/:title
 future: true
