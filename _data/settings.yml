@@ -1,8 +1,8 @@
 menu:
-- {name: 'Home', url: '/'}
+- {name: 'home', url: '/'}
 # - {name: 'about', url: '/about'}
-- {name: 'Articles', url: 'articles'}
-- {name: 'Portfolio', url: 'portfolio'}
+- {name: 'articles', url: 'articles'}
+- {name: 'portfolio', url: 'portfolio'}
 # - {name: 'gallery', url: '/gallery'}
 # - {name: 'contact', url: '/contact'}
 # - {name: 'search', url: '/search'}
