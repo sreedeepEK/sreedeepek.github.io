@@ -1,7 +1,7 @@
 menu:
-- {name: 'Home', url: '/'}
+- {name: 'home', url: '/'}
 # - {name: 'about', url: '/about'}
-- {name: 'Archives', url: 'articles'}
+- {name: 'archives', url: 'articles'}
 #- {name: 'Portfolio', url: 'portfolio'}
 # - {name: 'gallery', url: '/gallery'}
 # - {name: 'contact', url: '/contact'}
