@@ -2,12 +2,15 @@
 layout: post
 title: "Scalable MatMul-free Language Modeling"
 description: "A new research paper, "Scalable MatMul-free Language Modeling," offers a method to reduce computational demands in AI language models without losing performance."
-tag: [notes]
+tag: [tutorial]
 category: articles
 usemathjax: true
 ---
 
-Introduction
+
+
+
+### Introduction
 
 Language models (LMs) are the engines behind many AI applications, but they require vast computational resources, primarily due to matrix multiplication (MatMul) operations. A new research paper, "Scalable MatMul-free Language Modeling," introduces a method to sidestep this computational bottleneck, promising more efficient LMs.
 The Problem with MatMul
@@ -22,7 +25,7 @@ Key Techniques
     Sparse attention mechanisms: By focusing only on the most relevant parts of the data, the model can operate more efficiently.
     Efficient data structures: Utilizing data structures that minimize redundancy and optimize access speeds further reduces computational overhead.
 
-Hardware Implementation
+### Hardware Implementation
 
 To validate their approach, the researchers implemented their model on a Field-Programmable Gate Array (FPGA). This hardware efficiently handles billion-parameter models with much lower power consumption, demonstrating the practicality of their MatMul-free method.
 Future Implications
@@ -33,4 +36,6 @@ Conclusion
 The MatMul-free approach represents a significant advancement in making language models more efficient and scalable. By drastically reducing computational costs and memory usage, this innovation paves the way for broader AI application deployment. For those interested in the technical details, the full paper is available here.
 What This Means for You
 
-For developers and businesses, this means more affordable and accessible AI capabilities. For users, it translates to faster and more responsive AI-driven applications, from virtual assistants to advanced analytics tools. The future of AI is becoming more efficient and sustainable, thanks to innovations like the MatMul-free language modeling approach.
+For developers and businesses, this means more affordable and accessible AI capabilities. For users, it translates to faster and more responsive AI-driven applications, from virtual assistants to advanced analytics tools. The future of AI is becoming more efficient and sustainable, thanks to innovations like the MatMul-free language modeling approach. 
+
+Link to the research paper -> [Link](https://arxiv.org/abs/2406.02528)
